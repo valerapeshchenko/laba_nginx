@@ -1,1 +1,2 @@
 hero yes
+yes yes yes
